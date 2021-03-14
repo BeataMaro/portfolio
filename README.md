@@ -1,8 +1,4 @@
-<p align="center">
-  <a href="https://cara.lekoarts.de">
-    <img alt="LekoArts" src="https://img.lekoarts.de/gatsby/gatsby-site-illustration.png" />
-  </a>
-</p>
+### Demo: [Portfolio](beatamaro-portfolio.netlify.app)
 <h1 align="center">
   Gatsby Starter Portfolio: Cara
 </h1>
