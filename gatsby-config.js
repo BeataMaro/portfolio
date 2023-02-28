@@ -35,7 +35,7 @@ module.exports = {
         display: `standalone`,
         icons: [
           {
-            src: `/favicon.ico`,
+            src: `./favicon.ico`,
             type: "image/ico",
           },
         ],
